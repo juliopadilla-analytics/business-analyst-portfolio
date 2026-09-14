@@ -1,5 +1,16 @@
 # Employee Benefits Analysis Dashboard
 
+## Dashboard Screenshots
+
+### Enrollment Dashboard
+![Enrollment Dashboard](Enrollment%20Dashboard.png)
+
+### Contribution Analysis
+![Contribution Analysis](Contribution%20Analysis.png)
+
+### Enrollment Details
+![Enrollment Details](Enrollment%20Details.png)
+
 ## Project Overview
 
 This project analyzes employee benefit enrollment and premium costs using Power BI and Excel.
