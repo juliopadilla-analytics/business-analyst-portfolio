@@ -65,6 +65,7 @@ Sensitive employee information was removed or replaced for portfolio use.
 
 ## Project Files
 
-- Sanitized Excel dataset used for the analysis
+- [Download the sanitized Excel dataset](Sanitized_Benefit_Plan_Enrollments.xlsx)
 - Power BI dashboard screenshots included above
+
 
