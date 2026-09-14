@@ -62,3 +62,9 @@ Sensitive employee information was removed or replaced for portfolio use.
 - Power Query transformations
 - DAX calculations
 - Data visualization
+
+## Project Files
+
+- Sanitized Excel dataset used for the analysis
+- Power BI dashboard screenshots included above
+
