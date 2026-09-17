@@ -17,3 +17,15 @@ This project analyzes employee workforce data to track HUBZone compliance and id
 
 ## Business Question
 How close is the organization to the 35% HUBZone employee requirement, and which projects affect compliance the most?
+
+## Dashboard Preview
+
+### HUBZone Workforce Dashboard
+![HUBZone Dashboard](hubzone_dashboard.png)
+
+### Project Detail Analysis
+![HUBZone Project Detail Analysis](hubzone_project%20detailan_analysis.png)
+
+## Download the Data
+
+[Download the sanitized HUBZone Excel file](PowerBI_HubZone_SANITIZED_Fake_Data.xlsx)
