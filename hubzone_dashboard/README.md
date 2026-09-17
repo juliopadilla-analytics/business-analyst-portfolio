@@ -21,10 +21,12 @@ How close is the organization to the 35% HUBZone employee requirement, and which
 ## Dashboard Preview
 
 ### HUBZone Workforce Dashboard
+
 ![HUBZone Dashboard](hubzone_dashboard.png)
 
 ### Project Detail Analysis
-![HUBZone Project Detail Analysis](hubzone_project%20detailan_analysis.png)
+
+![HUBZone Project Detail Analysis](hubzone_detail_analysis.png)
 
 ## Download the Data
 
